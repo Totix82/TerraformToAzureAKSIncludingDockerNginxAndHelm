@@ -49,3 +49,4 @@ terraform destroy
 Enter yes to delete all resources…
 or use the parameter -auto-approve to skip the confirmation.
 terraform destroy -auto-approve
+
