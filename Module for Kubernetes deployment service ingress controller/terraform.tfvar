@@ -1,0 +1,9 @@
+#MariaDB credentials' values
+mariadbUser = "Salvo"
+mariadbPassword = "Salvo123"
+# Azure Subscription Id
+azure-subscription-id = "9c242362-6776-47d9-9db9-2aab2449703"# Azure Client Id/appId
+azure-client-id = "a47dd585-d5c1-4ffe-8ea2-91f0681c55bc"# Azure Client Secret/password
+azure-client-secret = "88f9776a-0e3h-4b9e-afcc-b4h3f17ad20h"
+azure-tenant-id = "c7e7beb6-8e7c-41e7-bc41-37ggg3e33b665"# Azure Tenant Id
+
